@@ -14,4 +14,8 @@ button {
 button:disabled {
   cursor: default;
 }
+
+.is-active {
+  font-weight: bold;
+}
 /*# sourceMappingURL=styles.css.map */
